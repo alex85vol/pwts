@@ -21,6 +21,8 @@ pnpm-debug.log*
 test-results/
 playwright-report/
 trace.zip
+traces/
+screenshots/
 *.png
 *.webm
 *.jsonl
@@ -47,3 +49,6 @@ Thumbs.db
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Reports
+reports/
