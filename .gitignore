@@ -44,3 +44,6 @@ coverage/
 
 # OS-specific files
 Thumbs.db
+/playwright-report/
+/blob-report/
+/playwright/.cache/
